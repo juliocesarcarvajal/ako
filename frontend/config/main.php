@@ -28,14 +28,12 @@ return [
         'errorHandler' => [
             'errorAction' => 'site/error',
         ],
-        /*
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
-            'rules' => [
+            'rules' => ['<alias:contact|index|about|login|signup>' => 'site/<alias>'
             ],
         ],
-        */
     ],
     'params' => $params,
 ];
