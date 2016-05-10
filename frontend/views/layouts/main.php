@@ -8,9 +8,11 @@ use yii\bootstrap\Nav;
 use yii\bootstrap\NavBar;
 use yii\widgets\Breadcrumbs;
 use frontend\assets\AppAsset;
+use frontend\assets\FontAsset;
 use common\widgets\Alert;
 
 AppAsset::register($this);
+FontAsset::register($this);
 ?>
 <?php $this->beginPage() ?>
 <!DOCTYPE html>
@@ -52,7 +54,7 @@ AppAsset::register($this);
     <header id="mainHeader" class="clearfix">
     <div class="container">
     <div class="row">
-      <div class="span12"> <a href="index.html" class="brand"><img src="images/main-logo.png" alt="ALTEA website template"/></a>
+      <div class="span12"> <a href="<?= Yii::$app->homeUrl ?>" class="brand"><img src="images/main-logo.png" alt="ALTEA website template"/></a>
         <nav id="resMainMenu" class="scrollMenu">
           <ul class="nav clearfix">
             <li class="active"><a href="#home">Home</a> </li>

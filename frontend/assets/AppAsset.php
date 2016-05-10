@@ -14,8 +14,6 @@ class AppAsset extends AssetBundle
     public $css = [
         #<!-- Bootstrap  -->
         'bootstrap/css/bootstrap.min.css',
-        #<!-- web font  -->
-        '//fonts.googleapis.com/css?family=Open+Sans:300,400,600,800',
         #<!-- plugin css  -->
         'js-plugin/animation-framework/animate.css',
         'js-plugin/pretty-photo/css/prettyPhoto.css',
@@ -54,5 +52,17 @@ class AppAsset extends AssetBundle
     public $depends = [
         #'yii\web\YiiAsset',
         #'yii\bootstrap\BootstrapAsset',
+    ];
+}
+class FontAsset extends AssetBundle
+{
+    public $basePath = '@webroot';
+    public $baseUrl = '@web';
+    public $css = [
+        #<!-- web font  -->
+        '//fonts.googleapis.com/css?family=Open+Sans:300,400,600,800',
+    ];
+    public $cssOptions = [
+        'type' => 'text/css',
     ];
 }
