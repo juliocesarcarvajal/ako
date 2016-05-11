@@ -58,7 +58,7 @@ FontAsset::register($this);
         <nav id="resMainMenu" class="scrollMenu">
           <ul class="nav clearfix">
             <li class="active"><a href="#home">Home</a> </li>
-            <li><a href="#news">News</a> </li>
+            <li><a href="#news">Nuevo</a> </li>
             <li><a href="#services">Services</a> </li>
             <li><a href="#works">Works</a> </li>
             <li><a href="#team">Team</a> </li>
