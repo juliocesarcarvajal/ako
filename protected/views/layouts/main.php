@@ -44,6 +44,7 @@
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
     <link rel="apple-touch-icon" sizes="144x144" href="images/apple-touch-icon-144x144.png">
+    <title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
 <body data-spy="scroll" data-target="#resMainMenu" data-offset="150">
 <!-- Primary Page Layout 
