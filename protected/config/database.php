@@ -6,7 +6,7 @@ return array(
 	// uncomment the following lines to use a MySQL database
 	'connectionString' => 'mysql:host=localhost;dbname=ako',
 	'emulatePrepare' => true,
-	'username' => 'root',
-	'password' => 'perrito',
+	'username' => 'ako',
+	'password' => 'ako',
 	'charset' => 'utf8',
 );
