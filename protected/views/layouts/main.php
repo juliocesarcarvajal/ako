@@ -22,7 +22,7 @@
     <!-- Bootstrap  -->
     <link type="text/css" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/bootstrap/css/bootstrap.min.css">
     <!-- web font  -->
-    <link href="<?php echo Yii::app()->request->baseUrl; ?>/http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800" rel="stylesheet" type="text/css">
     <!-- plugin css  -->
     <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/animation-framework/animate.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/pretty-photo/css/prettyPhoto.css" />
@@ -34,7 +34,7 @@
     <link type="text/css" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/font-icons/custom-icons/css/custom-icons-ie7.css">
     <!-- Custom css -->
     <link type="text/css" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/css/layout.css">
-    <link type="text/css" id="colors" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/css/colors.css">
+    <link type="text/css" id="colors" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/css/green.css">
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/js/modernizr-2.6.1.min.js"></script>
     <!-- Favicons
