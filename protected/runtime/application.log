@@ -716,3 +716,174 @@ Stack trace:
 REQUEST_URI=/favicon.ico
 HTTP_REFERER=http://ako.co:8080/login
 ---
+2016/05/16 02:43:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:44:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:47:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/contact
+---
+2016/05/16 02:53:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/contact
+---
+2016/05/16 02:55:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:57:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:58:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/contact
+---
+2016/05/16 02:59:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/contact
+---
+2016/05/16 02:59:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/contact
+---
+2016/05/16 02:59:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:59:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:59:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 02:59:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 03:00:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 03:00:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 03:19:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
+2016/05/16 03:19:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\ako\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ako\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\ako\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ako\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://ako.co:8080/login
+---
