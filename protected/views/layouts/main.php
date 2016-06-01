@@ -58,14 +58,14 @@
                     <div class="span12"> <a href="index.html" class="brand"><img src="images/main-logo.png" alt="ALTEA website template"/></a>
                         <nav id="resMainMenu" class="scrollMenu">
                             <ul class="nav clearfix">
-                                <li class="active"><a href="#home">Home</a> </li>
-                                <li><a href="#news">News</a> </li>
-                                <li><a href="#services">Services</a> </li>
-                                <li><a href="#works">Works</a> </li>
-                                <li><a href="#team">Team</a> </li>
-                                <li><a href="features.html">Features</a> </li>
-                                <li><a href="blog-home-sidebar-right.html">Blog</a> </li>
-                                <li><a href="#contactSlice">Contact</a> </li>
+                                <li class="active"><a href="#home">Inicio</a> </li>
+                                <li><a href="#news">Practica</a> </li>
+                                <li><a href="#services">El Proyecto</a> </li>
+                                <li><a href="#works">Retos</a> </li>
+                                <li><a href="#team">Nosotros</a> </li>
+                                <!--li><a href="features.html">Features</a> </li-->
+                                <!--li><a href="blog-home-sidebar-right.html">Blog</a> </li-->
+                                <li><a href="#contactSlice">Contactenos</a> </li>
                             </ul>
                         </nav>
                     </div>
@@ -77,7 +77,7 @@
         <?php echo $content; ?>
 
         <!-- footer -->
-        <footer>
+        <!--footer>
             <section id="mainFooter">
                 <div class="container" id="footer">
                     <div class="row">
@@ -100,12 +100,12 @@
                         </div>
                     </div>
                 </section>
-            </footer>
+            </footer-->
             <section  id="footerRights">
                 <div class="container">
                     <div class="row">
                         <div class="span12">
-                            <p>Copyright © 2012 <a href="http://www.little-neko.com" target="blank">Little NEKO</a> / All rights reserved.</p>
+                            <p>Copyright © 2016 <a href="http://www.ako.com.co" target="blank">AKO</a> / Todos los Derechos Reservados.</p>
                         </div>
                     </div>
                 </div>

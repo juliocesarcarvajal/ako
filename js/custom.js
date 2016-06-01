@@ -1186,11 +1186,11 @@ jQuery(function($){
                     thumb_links             :   0,          // Individual thumb links for each slide
                     thumbnail_navigation    :   0,          // Thumbnail navigation
                     slides                  :   [           // Slideshow Images
-                    {image : './images/slider/super/supersized-1.jpg', title : '<h1 class="bigTitle">Sun is shining<br /> <small>the weather is sweet</small></h1><a href="#news" class="btn sliderBtn" >Read more</a>', thumb : '', url : ''},
+                    {image : './images/slider/super/supersized-1.jpg', title : '<h1 class="bigTitle"><br /> <small></small></h1><a href="#news" class="btn sliderBtn" >Resuelve Estos Retos</a>', thumb : '', url : ''},
 
-                    {image : './images/slider/super/supersized-2.jpg', title : '<h1 class="bigTitle">Moon is rising<br /> <small>the night is bitter</small></h1><a href="#works" class="btn sliderBtn" >Check our work</a>', thumb : '', url : ''},
+                    {image : './images/slider/super/supersized-2.jpg', title : '<h1 class="bigTitle"><br /> <small></small></h1><a href="#works" class="btn sliderBtn" >Resuelve Estos Retos</a>', thumb : '', url : ''},
 					 
-					{image : './images/slider/super/supersized-3.jpg', title : '<h1 class="bigTitle">Groove is in the heart<br /> <small>ahaaanhaan</small></h1><a href="#works" class="btn sliderBtn" >More info</a>', thumb : '', url : ''}
+					{image : './images/slider/super/supersized-3.jpg', title : '<h1 class="bigTitle"><br /> <small></small></h1><a href="#works" class="btn sliderBtn" >Resuelve Estos Retos</a>', thumb : '', url : ''}
                     ],
 
                     // Theme Options               

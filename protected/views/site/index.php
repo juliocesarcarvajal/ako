@@ -14,7 +14,7 @@
   <div class="container imgHover">
     <div class="row">
       <div class="span12">
-        <h1>Latest news</h1>
+        <h1>Últimas Explicaciones</h1>
       </div>
       <article class="span4">
         <section class="imgWrapper"> <img src="images/news/news1.jpg" alt="alteae template image news" /> </section>
@@ -161,16 +161,16 @@
                   <div class="container clearfix">
                     <div class="row">
                       <div class="span12">
-                        <h1>Our Work</h1>
+                        <h1>Nuevos Retos</h1>
                       </div>
-                      <nav id="filter" class="span12 text-center">
+                      <!--nav id="filter" class="span12 text-center">
                         <ul>
                           <li><a href="" class="current btn btn-small" data-filter="*">All</a></li>
                           <li><a href=""  class="btn btn-small" data-filter=".graphics" >Graphics</a></li>
                           <li><a href=""  class="btn btn-small" data-filter=".women">Women</a></li>
                           <li ><a href="" class="btn btn-small" data-filter=".cats">Cats</a></li>
                         </ul>
-                      </nav>
+                      </nav-->
                       <div class="span12">
                         <div class="row">
                           <div class="portfolio-items isotopeWrapper clearfix imgHover" id="3">
@@ -213,7 +213,7 @@
                                           <a href="#" class="moreLink">&rarr; read more</a> 
                                         </p>
                                       </section>
-                                      <div class="newBadge">New!</div>
+                                      <div class="newBadge">Nuevo!</div>
                                     </article>
 
                                     <article class="boxLink boxNew span4 isotopeItem graphics">
@@ -235,204 +235,9 @@
                                           <br>
                                           <a href="#" class="moreLink">&rarr; read more</a> </p>
                                         </section>
-                                        <div class="newBadge">New!</div>
+                                        <div class="newBadge">Nuevo!</div>
                                       </article>
-
-                                      <article class="boxLink boxNew span4 isotopeItem cats">
-                                        <section class="imgWrapper"> <img alt="" src="images/portfolio/vign3.jpg"> </section>
-                                        <div class="media-hover">
-                                          <div class="mask"></div>
-                                          <div class="iconLinks"> 
-                                            <a href="portfolio-project-fullwidth-carousel.html" title="link" target="_blank" class="sizer iconWrapper"> 
-                                              <i class="icon-camera"></i> 
-                                            </a> 
-                                            <a href="images/portfolio/zoom3.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
-                                              <i class="icon-search"></i> 
-                                            </a> 
-                                          </div>
-                                        </div>
-                                        <section class="boxContent">
-                                          <h3>Lorem ipsum dolor sit amet</h3>
-                                          <p> 
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
-                                            <br>
-                                            <a href="#" class="moreLink">&rarr; read more</a> 
-                                          </p>
-                                        </section>
-                                      </article>
-
-                                      <article class="boxLink boxNew span4 isotopeItem cats">
-                                        <section class="imgWrapper"> <img alt="" src="images/portfolio/vign2.jpg"> </section>
-                                        <div class="media-hover">
-                                          <div class="mask"></div>
-                                          <div class="iconLinks"> 
-                                            <a href="portfolio-project-fullwidth-carousel.html" title="link" target="_blank" class="sizer iconWrapper"> 
-                                              <i class="icon-camera"></i> 
-                                            </a> 
-                                            <a href="images/portfolio/zoom2.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
-                                              <i class="icon-search"></i> 
-                                            </a> 
-                                          </div>
-                                        </div>
-                                        <section class="boxContent">
-                                          <h3>Lorem ipsum dolor sit amet</h3>
-                                          <p> 
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
-                                            <br>
-                                            <a href="#" class="moreLink">&rarr; read more</a> 
-                                          </p>
-                                        </section>
-                                      </article>
-
-                                      <article class="boxLink boxNew span4 isotopeItem women">
-                                        <section class="imgWrapper"> <img alt="" src="images/portfolio/vign4.jpg"> </section>
-                                        <div class="media-hover">
-                                          <div class="mask"></div>
-                                          <div class="iconLinks"> 
-                                            <a href="portfolio-project-fullwidth-video.html" title="link" target="_blank" class="sizer iconWrapper"> 
-                                              <i class="icon-videocam"></i> 
-                                            </a> 
-                                            <a href="images/portfolio/zoom4.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
-                                              <i class="icon-search"></i> 
-                                            </a> 
-                                          </div>
-                                        </div>
-                                        <section class="boxContent">
-                                          <h3>Lorem ipsum dolor sit amet</h3>
-                                          <p> 
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
-                                            <br>
-                                            <a href="#" class="moreLink">&rarr; read more</a> 
-                                          </p>
-                                        </section>
-                                      </article>
-
-                                      <article class="boxLink boxNew span4 isotopeItem graphics">
-                                        <section class="imgWrapper"> <img alt="" src="images/portfolio/vign8.jpg"> </section>
-                                        <div class="media-hover">
-                                          <div class="mask"></div>
-                                          <div class="iconLinks"> 
-                                            <a href="portfolio-project-fullwidth-carousel.html" title="link" target="_blank" class="sizer iconWrapper"> 
-                                              <i class="icon-camera"></i> 
-                                            </a> 
-                                            <a href="images/portfolio/zoom8.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
-                                              <i class="icon-search"></i> 
-                                            </a> 
-                                          </div>
-                                        </div>
-                                        <section class="boxContent">
-                                          <h3>Lorem ipsum dolor sit amet</h3>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
-                                            <br>
-                                            <a href="#" class="moreLink">&rarr; read more</a></p>
-                                          </section>
-                                        </article>
-
-                                        <article class="boxLink boxNew span4 isotopeItem women">
-                                          <section class="imgWrapper"> <img alt="" src="images/portfolio/vign5.jpg"> </section>
-                                          <div class="media-hover">
-                                            <div class="mask"></div>
-                                            <div class="iconLinks"> 
-                                              <a href="portfolio-project-fullwidth-image.html" title="link" target="_blank" class="sizer iconWrapper"> 
-                                                <i class="icon-picture"></i> 
-                                              </a> 
-                                              <a href="images/portfolio/zoom5.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
-                                                <i class="icon-search"></i> 
-                                              </a> 
-                                            </div>
-                                          </div>
-                                          <section class="boxContent">
-                                            <h3>Lorem ipsum dolor sit amet</h3>
-                                            <p>
-                                              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
-                                              <br>
-                                              <a href="#" class="moreLink">&rarr; read more</a>
-                                            </p>
-                                          </section>
-                                        </article>
-
-
-                                        <article class="boxLink boxNew span4 isotopeItem graphics">
-                                          <section class="imgWrapper"> <img alt="" src="images/portfolio/vign9.jpg"> </section>
-                                          <div class="media-hover">
-                                            <div class="mask"></div>
-                                            <div class="iconLinks"> 
-                                              <a href="portfolio-project-fullwidth-carousel.html" title="link" target="_blank" class="sizer iconWrapper"> 
-                                                <i class="icon-camera"></i> 
-                                              </a> 
-                                              <a href="images/portfolio/zoom9.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
-                                                <i class="icon-search"></i> 
-                                              </a> 
-                                            </div>
-                                          </div>
-                                          <section class="boxContent">
-                                            <h3>Lorem ipsum dolor sit amet</h3>
-                                            <p>
-                                              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
-                                              <br>
-                                              <a href="#" class="moreLink">&rarr; read more</a>
-                                            </p>
-                                          </section>
-                                        </article>
                                       </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </section>
-
-
-                            <section class="color1 slice" id="quoteWrapper">
-                              <div class="container">
-                                <div class="ctaBox clearfix">
-                                  <div class="row-fluid">
-                                    <div class="span9">
-                                      <blockquote>Like what you see? <small>Request a proposal now!</small></blockquote>
-                                    </div>
-                                    <div class="span3"> <a class="btn btn-large" title="" href="#" id="quoteTrigger"> Get a quote!</a> </div>
-                                  </div> 
-                                  <div class="row">  
-                                    <div class="span12" id="quoteFormWrapper">
-
-                                      <form id="projectQuote" method="post" action="js-plugin/neko-contact-ajax-plugin/php/form-handler-quotation.php">
-                                        <div class="row-fluid">
-
-                                          <div class="span4"> 
-                                            <h3>Ask us about your projects</h3>
-                                            <p> 
-                                              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel pulvinar ligula. Sed rutrum condimentum sapien vel facilisis. Proin pulvinar ultrices odio. 
-                                            </p>
-                                          </div>  
-
-                                          <div class="span4">
-                                            <input type="text" id="inputName" class="span5" placeholder="Name" name="name">
-
-                                            <input type="text" id="inputEmail" class="span5" placeholder="Email" name="email">
-
-                                            <input type="text" id="inputCompany" class="span5" placeholder="Company" name="company">
-                                          </div>
-
-                                          <div class="span4">    
-
-                                            <select name="quoteType">
-                                              <option disabled selected>Project Type</option>
-                                              <option value="web project">web project</option>
-                                              <option value="design project">design project</option>
-                                              <option value="hosting project">hosting project</option>
-                                            </select>
-
-                                            <textarea name="comment" id="quoteComment" placeholder="message"></textarea>
-
-                                          </div>
-                                        </div>
-                                        <div class="row-fluid">
-                                          <div class="span8 offset4">
-                                            <div class="quoteResult pull-left"></div>
-                                            <button class="btn btn-large pull-right" type="submit">Send</button>
-                                          </div>
-                                        </div>
-                                      </form>
-
                                     </div>
                                   </div>
                                 </div>
@@ -453,23 +258,23 @@
                                 <div class="container">
                                   <div class="row">
                                     <div class="span12">
-                                      <h1>Meet our team</h1>
+                                      <h1>El Equipo</h1>
                                     </div>
                                     <div class="span3">
                                       <article class="boxWrapper color1">
                                         <div><img src="images/team/pic1.jpg" alt=""></div>
                                         <div class="boxContent2">
-                                          <h3>Janet DOE </h3>
-                                          <p>Executive Director</p>
+                                          <h3>Julio Carvajal </h3>
+                                          <p>Developer</p>
                                         </div>
-                                        <div class="boxContent"> <a href="mailto:your.email@little-neko.com">j.doe@altea.com</a>
-                                          <ul class="socialNetwork">
+                                        <div class="boxContent"> <a href="mailto:your.email@little-neko.com">julio.carvajal@ako.com.co</a>
+                                          <!--ul class="socialNetwork">
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Facebook"><i class="icon-facebook"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Twitter"><i class="icon-twitter-bird"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Google+"><i class="icon-gplus"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Linkedin"><i class="icon-linkedin"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Pinterest"><i class="icon-pinterest-circled"></i></a></li>
-                                          </ul>
+                                          </ul-->
                                         </div>
                                       </article>
                                     </div>
@@ -477,17 +282,17 @@
                                       <article class="boxWrapper color1">
                                         <div><img src="images/team/pic2.jpg" alt=""></div>
                                         <div class="boxContent2">
-                                          <h3>Johanna Newsom</h3>
-                                          <p>Salesman</p>
+                                          <h3>Caroline Prada</h3>
+                                          <p>Developer</p>
                                         </div>
-                                        <div class="boxContent"> <a href="mailto:your.email@little-neko.com">j.newsom@altea.com</a>
-                                          <ul class="socialNetwork">
+                                        <div class="boxContent"> <a href="mailto:your.email@little-neko.com">caroline.prada@ako.com.co</a>
+                                          <!--ul class="socialNetwork">
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Facebook"><i class="icon-facebook"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Twitter"><i class="icon-twitter-bird"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Google+"><i class="icon-gplus"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Linkedin"><i class="icon-linkedin"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Pinterest"><i class="icon-pinterest-circled"></i></a></li>
-                                          </ul>
+                                          </ul-->
                                         </div>
                                       </article>
                                     </div>
@@ -495,17 +300,17 @@
                                       <article class="boxWrapper color1">
                                         <div><img src="images/team/pic3.jpg" alt=""></div>
                                         <div class="boxContent2">
-                                          <h3>Alexander Doe</h3>
-                                          <p>Graphic designer</p>
+                                          <h3>David Muñoz</h3>
+                                          <p>Developer</p>
                                         </div>
-                                        <div class="boxContent"> <a href="mailto:your.email@little-neko.com">a.doe@altea.com</a>
-                                          <ul class="socialNetwork">
+                                        <div class="boxContent"> <a href="mailto:your.email@little-neko.com">david.munoz@ako.com.co</a>
+                                          <!--ul class="socialNetwork">
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Facebook"><i class="icon-facebook"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Twitter"><i class="icon-twitter-bird"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Google+"><i class="icon-gplus"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Linkedin"><i class="icon-linkedin"></i></a></li>
                                             <li><a href="#" class="tips" title="" data-original-title="follow me on Pinterest"><i class="icon-pinterest-circled"></i></a></li>
-                                          </ul>
+                                          </ul-->
                                         </div>
                                       </article>
                                     </div>
@@ -513,11 +318,11 @@
                                       <article class="boxWrapper color1">
                                         <div><img src="images/team/pic4.jpg" alt=""></div>
                                         <div class="boxContent2">
-                                          <h3>Pamela Anderson</h3>
-                                          <p>Programmer</p>
+                                          <h3>Sebastian Baracaldo</h3>
+                                          <p>Developer</p>
                                         </div>
-                                        <div class="boxContent"> <a href="mailto:your.email@little-neko.com">p.anderson66@altea.com</a>
-                                          <ul class="socialNetwork">
+                                        <div class="boxContent"> <a href="mailto:your.email@little-neko.com">sebastian.baracaldo@ako.com.co</a>
+                                          <!--ul class="socialNetwork">
                                             <li>
                                                 <a href="#" class="tips" title="" data-original-title="follow me on Facebook"><i class="icon-facebook"></i></a>
                                             </li>
@@ -535,7 +340,7 @@
                                                 <a href="#" class="tips" title="" data-original-title="follow me on Pinterest"><i class="icon-pinterest-circled"></i>
                                                 </a>
                                             </li>
-                                        </ul>
+                                        </ul-->
                                         </div>
                                       </article>
                                     </div>
