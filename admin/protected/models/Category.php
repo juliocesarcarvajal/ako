@@ -6,7 +6,10 @@
  * The followings are the available columns in table 'category':
  * @property integer $id
  * @property string $category
- * @property string $description
+ * @property string $category_description
+ *
+ * The followings are the available model relations:
+ * @property Exercise[] $exercises
  */
 class Category extends CActiveRecord
 {
@@ -26,12 +29,12 @@ class Category extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('category, description', 'required'),
+			array('category, category_description', 'required'),
 			array('category', 'length', 'max'=>64),
-			array('description', 'length', 'max'=>256),
+			array('category_description', 'length', 'max'=>256),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('id, category, description', 'safe', 'on'=>'search'),
+			array('id, category, category_description', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -43,6 +46,7 @@ class Category extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
+			'exercises' => array(self::HAS_MANY, 'Exercise', 'category_id'),
 		);
 	}
 
@@ -54,7 +58,7 @@ class Category extends CActiveRecord
 		return array(
 			'id' => 'ID',
 			'category' => 'Category',
-			'description' => 'Description',
+			'category_description' => 'Category Description',
 		);
 	}
 
@@ -78,7 +82,7 @@ class Category extends CActiveRecord
 
 		$criteria->compare('id',$this->id);
 		$criteria->compare('category',$this->category,true);
-		$criteria->compare('description',$this->description,true);
+		$criteria->compare('category_description',$this->category_description,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

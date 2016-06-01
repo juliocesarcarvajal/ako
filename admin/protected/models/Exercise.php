@@ -1,23 +1,28 @@
 <?php
 
 /**
- * This is the model class for table "user".
+ * This is the model class for table "exercise".
  *
- * The followings are the available columns in table 'user':
+ * The followings are the available columns in table 'exercise':
  * @property integer $id
  * @property string $created_at
- * @property string $username
- * @property string $password
- * @property string $email
+ * @property string $title
+ * @property string $exercise_description
+ * @property string $paragarph_one
+ * @property string $paragarph_two
+ * @property integer $category_id
+ *
+ * The followings are the available model relations:
+ * @property Category $category
  */
-class User extends CActiveRecord
+class Exercise extends CActiveRecord
 {
 	/**
 	 * @return string the associated database table name
 	 */
 	public function tableName()
 	{
-		return 'user';
+		return 'exercise';
 	}
 
 	/**
@@ -28,11 +33,14 @@ class User extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('username, password, email', 'required'),
-			array('username, password, email', 'length', 'max'=>128),
+			array('created_at, title, exercise_description, paragarph_one, paragarph_two, category_id', 'required'),
+			array('category_id', 'numerical', 'integerOnly'=>true),
+			array('title', 'length', 'max'=>128),
+			array('exercise_description', 'length', 'max'=>256),
+			array('paragarph_one, paragarph_two', 'length', 'max'=>512),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('id, created_at, username, password, email', 'safe', 'on'=>'search'),
+			array('id, created_at, title, exercise_description, paragarph_one, paragarph_two, category_id', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -44,6 +52,7 @@ class User extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
+			'category' => array(self::BELONGS_TO, 'Category', 'category_id'),
 		);
 	}
 
@@ -55,9 +64,11 @@ class User extends CActiveRecord
 		return array(
 			'id' => 'ID',
 			'created_at' => 'Created At',
-			'username' => 'Username',
-			'password' => 'Password',
-			'email' => 'Email',
+			'title' => 'Title',
+			'exercise_description' => 'Exercise Description',
+			'paragarph_one' => 'Paragarph One',
+			'paragarph_two' => 'Paragarph Two',
+			'category_id' => 'Category',
 		);
 	}
 
@@ -81,9 +92,11 @@ class User extends CActiveRecord
 
 		$criteria->compare('id',$this->id);
 		$criteria->compare('created_at',$this->created_at,true);
-		$criteria->compare('username',$this->username,true);
-		$criteria->compare('password',$this->password,true);
-		$criteria->compare('email',$this->email,true);
+		$criteria->compare('title',$this->title,true);
+		$criteria->compare('exercise_description',$this->exercise_description,true);
+		$criteria->compare('paragarph_one',$this->paragarph_one,true);
+		$criteria->compare('paragarph_two',$this->paragarph_two,true);
+		$criteria->compare('category_id',$this->category_id);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
@@ -94,7 +107,7 @@ class User extends CActiveRecord
 	 * Returns the static model of the specified AR class.
 	 * Please note that you should have this exact method in all your CActiveRecord descendants!
 	 * @param string $className active record class name.
-	 * @return User the static model class
+	 * @return Exercise the static model class
 	 */
 	public static function model($className=__CLASS__)
 	{
