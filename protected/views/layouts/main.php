@@ -59,7 +59,7 @@
                         <nav id="resMainMenu" class="scrollMenu">
                             <ul class="nav clearfix">
                                 <li class="active"><a href="#home">Inicio</a> </li>
-                                <li><a href="#news">Practica</a> </li>
+                                <li><a href="#news">Aprende</a> </li>
                                 <li><a href="#services">El Proyecto</a> </li>
                                 <li><a href="#works">Retos</a> </li>
                                 <li><a href="#team">Nosotros</a> </li>

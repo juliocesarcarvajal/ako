@@ -88,7 +88,7 @@
             <div id="paralaxSlice1" data-stellar-background-ratio="0.5">
               <div class="paralaxText">
                 <div class="iconWrapper iconBig color4"><i class="icon-megaphone "></i></div>
-                <blockquote class="bigTitle">Good design is good business.</blockquote>
+                <blockquote class="bigTitle">En lugar de una calificación obtendrás una retroalimentación.</blockquote>
               </div>
             </div>
 
@@ -96,14 +96,14 @@
               <div class="container">
                 <div class="row">
                   <div class="span12">
-                    <h1>Our services</h1>
+                    <h1>¿Qué Encuentras en AKO?</h1>
                   </div>
                   <div class="span3">
                     <article class="boxIcon">
                       <div class="iconWrapper iconBig"> <i class="icon-heart"></i></div>
                       <section class="boxContent">
-                        <h2>Clean design</h2>
-                        <p>Elegant layouts that help you organize your content in the best way.</p>
+                        <h2>Para Estudiantes</h2>
+                        <p>Desarrollado por y para estudiantes de la universidad EAN buscando fortalecer conocimientos.</p>
                       </section>
                     </article>
                   </div>
@@ -111,8 +111,8 @@
                     <article class="boxIcon">
                       <div class="iconWrapper iconBig"> <i class="icon-star-empty"></i></div>
                       <section class="boxContent">
-                        <h2>HTML5 &amp; CSS3</h2>
-                        <p>Built with modern technologies like HTML5 and CSS3, SEO optimised.</p>
+                        <h2>Por Enistas</h2>
+                        <p>Alimentada por los docentes de la universidad EAN, expertos en cada una de las areas de repaso.</p>
                       </section>
                     </article>
                   </div>
@@ -120,8 +120,8 @@
                     <article class="boxIcon">
                       <div class="iconWrapper iconBig"> <i class="icon-cog"></i></div>
                       <section class="boxContent">
-                        <h2>Easy Customization</h2>
-                        <p>Clear code and documentation, build your website in no time!</p>
+                        <h2>Para Eanistas</h2>
+                        <p>La comunidad Eanista puede modificar y amoldar a AKO con el paso del tiempo e incluir nuevas funcionalidades.</p>
                       </section>
                     </article>
                   </div>
@@ -129,8 +129,8 @@
                     <article class="boxIcon">
                       <div class="iconWrapper iconBig"> <i class="icon-mobile-1"></i></div>
                       <section class="boxContent">
-                        <h2>Responsive design</h2>
-                        <p>Compatible with various desktop, tablet, and mobile devices.</p>
+                        <h2>Desde tu Móvil</h2>
+                        <p>¿No tienes a la mano un PC? No hay problema, AKO está diseñado fullresponsive y no tendras problemas.</p>
                       </section>
                     </article>
                   </div>
@@ -142,13 +142,13 @@
                 <div class="row">
                   <div class="span4"> <img src="images/theme-pics/services.png" alt="services"> </div>
                   <div class="span4">
-                    <h2>Choose your color, build your website, now!</h2>
-                    <p>You want a guarantee, buy a toaster. Dyin' ain't much of a livin', boy. You see, in this world there's two kinds of people, my friend: Those with loaded guns and those who dig. You dig. Are you feeling lucky punk This is my gun, Clyde! What you have to ask yourself is, do I feel lucky. Well do ya' punk? Are you feeling lucky punk.</p><p> When a naked man's chasing a woman through an alley with a butcher knife and a hard-on, I figure he's not out collecting for the Red Cross. Well, do you have anything to say for yourself? Dyin' ain't much of a livin', boy. Are you feeling lucky punk </p>
-                    <a href="#" class="btn">read more</a> </div>
+                    <h2>Por qué AKO</h2>
+                    <p>AKO presenta una nueva forma de aprender, a partir de retos donde la lógica, los conocimientos y las habilidades son una ventaja, además que no te debes preocupar por la calificación ya que aquí este criterio no existe, simplemente si la respuesta no fue la correcta, te damos una retroalimentación sobre la actividad.</p><p>Como parte inicial la plataforma cuenta con 3 Modalidades de Estudio, se espera a futuro ampliar la plataforma con ayuda tanto de los Docente como los estudiantes, con todas las modalidades que hoy se enseñan en la Universidad.</p>
+                    <!--a href="#" class="btn">read more</a--> </div>
                     <div class="span4">
-                      <h2>Altea, a clean one page website template</h2>
-                      <p> We got no food we got no money and our pets heads are falling off! haaaaaaarry. It's because i'm green isn't it! it's because i'm green isn't it! Good morning, oh in case i don't see you, good afternoon, good evening and goodnight.</p><h3>hey, maybe i will give you a call sometime</h3><p> your number still 911? hey, maybe i will give you a call sometime. Your entrance was good, his was better. Look ma i'm road kill! </p>
-                      <a href="#" class="btn">read more</a> </div>
+                      <h2>Cómo y Quién</h2>
+                      <p> Este proyecto es desarrollado como una Plataforma Virtual, en la cual los estudiantes y docentes pueden interactuar con ella.</p><h3>Por Eanistas, Para Eanistas</h3><p> Es una plataforma diseñada por y para estudiantes de la universidad EAN en función de apoyo y fortalecimiento del aprendizaje en sus unidades de estudio.</p>
+                      <!--a href="#" class="btn">read more</a--> </div>
                     </div>
                   </div>
                 </section>
@@ -250,8 +250,7 @@
                             <div id="paralaxSlice2" data-stellar-background-ratio="0.5">
                               <div class="paralaxText">
                                 <div class="iconWrapper iconBig"> <i class="icon-camera"></i> </div>
-                                <blockquote>Less is only more<br/>
-                                  where more is no good                    </blockquote>
+                                <blockquote>Recuerda, esto no es un reto académico y solo buscamos ayudarte a mejorar.</blockquote>
                                 </div>
                               </div>
                               <section class="slice color1" id="team">
@@ -356,7 +355,7 @@
 
                                   <div class="paralaxText">
                                     <div class="iconWrapper iconBig"> <i class="icon-mail"></i> </div>
-                                    <blockquote>Keep in touch with us</blockquote>
+                                    <blockquote>Contáctate con nosotros</blockquote>
                                   </div>
                                 </div>
                               </div>
@@ -364,27 +363,27 @@
                                 <div class="container">
                                   <div class="row mb40">
                                     <div class="span12">
-                                      <h1>Contact us</h1>
+                                      <h1>Contáctanos</h1>
                                     </div>
                                     <div id="contactSlide">
                                       <div class="span3"> <a href="" title="" id="mapTriggerLoader">
                                         <div class="iconWrapper iconBig"> <i class="icon-location"></i> </div>
-                                        <span class="clearfix">Click to see the map</span></a>
-                                        <p>Curabitur turpis orci, gravida non ornare id, venenatis nec enim. Praesent posuere condimentum leo eget volutpat. .</p>
+                                        <span class="clearfix">Click para que veas el mapa</span></a>
+                                        <!--p>Curabitur turpis orci, gravida non ornare id, venenatis nec enim. Praesent posuere condimentum leo eget volutpat. .</p-->
                                       </div>
                                       <div class="span6">
 
                                         <form method="post" action="js-plugin/neko-contact-ajax-plugin/php/form-handler.php" id="contactfrm">
                                           <label for="name"></label>
-                                          <input type="text" name="name" id="name" placeholder="Name"  title="Please enter your name (at least 2 characters)"/>
+                                          <input type="text" name="name" id="name" placeholder="Nombre"  title="Please enter your name (at least 2 characters)"/>
                                           <label for="email"></label>
                                           <input type="email" name="email" id="email" placeholder="Email" title="Please enter a valid email address"/>
                                           <label for="phone"></label>
-                                          <input name="phone" type="tel" id="phone" size="30" value="" placeholder="Phone" class="required digits" title="Please enter a valid phone number (at least 10 characters)">
+                                          <input name="phone" type="tel" id="phone" size="30" value="" placeholder="Teléfono" class="required digits" title="Please enter a valid phone number (at least 10 characters)">
                                           <label for="comments"></label>
-                                          <textarea name="comment" id="comments" cols="3" rows="5" placeholder="Enter your message…" title="Please enter your message (at least 10 characters)"></textarea>
+                                          <textarea name="comment" id="comments" cols="3" rows="5" placeholder="Dejanos tu mensaje..." title="Please enter your message (at least 10 characters)"></textarea>
                                           <fieldset class="clearfix securityCheck">
-                                            <legend>Security</legend>
+                                            <legend>¿No eres una máquina?</legend>
                                             <div class="row">
                                               <div class="span6 pull-left humanCheck">
                                                 <label for="verify" class="pull-left"><img src="js-plugin/neko-contact-ajax-plugin/php/image.php" alt="Image verification"/></label>
@@ -393,15 +392,13 @@
                                             </div>
                                           </fieldset>
                                           <br/> <div class="result"></div>
-                                          <button name="submit" type="submit" class="btn" id="submit"> Submit</button>
+                                          <button name="submit" type="submit" class="btn" id="submit"> Enviar</button>
                                         </form>
-
-                                       
                                       </div>
                                       <div class="span3">
                                         <address>
                                           Address:<br/>
-                                          Himalaya Company<br/>
+                                          Universidad EAN<br/>
                                           77 Mass. Ave., E14/E15<br/>
                                           Cambridge, MA 02139-4307 USA <br/>
                                           <br/>
