@@ -19,11 +19,11 @@
 
 	<?php echo $form->errorSummary($model); ?>
 
-	<div class="row">
+	<!--div class="row">
 		<?php echo $form->labelEx($model,'created_at'); ?>
 		<?php echo $form->textField($model,'created_at'); ?>
 		<?php echo $form->error($model,'created_at'); ?>
-	</div>
+	</div-->
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'title'); ?>
@@ -51,7 +51,10 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'category_id'); ?>
-		<?php echo $form->textField($model,'category_id'); ?>
+		<?php 
+			$categoryArray = CHtml::listData(Category::model()->findAll(), 'id', 'category');
+			echo $form->DropDownList($model,'category_id', $categoryArray, array('empty' => 'Seleccione una Categoría'));
+		?>
 		<?php echo $form->error($model,'category_id'); ?>
 	</div>
 

@@ -198,3 +198,21 @@ REQUEST_URI=/admin/
 in /home/jc/Workspace/ako/admin/protected/views/site/index.php (28)
 in /home/jc/Workspace/ako/admin/protected/controllers/SiteController.php (34)
 in /home/jc/Workspace/ako/admin/index.php (13)
+2016/06/02 12:09:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login/about".' in /home/jc/Workspace/ako/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/jc/Workspace/ako/framework/web/CWebApplication.php(141): CWebApplication->runController('login/about')
+#1 /home/jc/Workspace/ako/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /home/jc/Workspace/ako/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/login/about
+---
+2016/06/02 12:09:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "about".' in /home/jc/Workspace/ako/framework/web/CController.php:483
+Stack trace:
+#0 /home/jc/Workspace/ako/framework/web/CController.php(270): CController->missingAction('about')
+#1 /home/jc/Workspace/ako/framework/web/CWebApplication.php(282): CController->run('about')
+#2 /home/jc/Workspace/ako/framework/web/CWebApplication.php(141): CWebApplication->runController('site/about')
+#3 /home/jc/Workspace/ako/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/jc/Workspace/ako/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/about
+---

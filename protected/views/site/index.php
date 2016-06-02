@@ -25,12 +25,12 @@
         <div class="media-list newsList">
           <div class="media">
             <section class="newsDate">
-              <h4>12</h4>
-              <span>Oct.</span> </section>
+              <h4>02</h4>
+              <span>Jun.</span> </section>
               <section class="media-body">
-                <h3>I feel good</h3>
-                <p>Nullam sed tortor odio. Suspendisse tincidunt dictum nisi, nec convallis odio. </p>
-                <a href="blog-post.html" class="btn btn-small btn-inverse"><i class="icon-right-open-mini"></i>read more</a> </section>
+                <h3>Termodinámica</h3>
+                <p>Aplicación de la definición de la eficiencia térmica para el motor térmico.</p>
+                <a href="blog-post.html" class="btn btn-small btn-inverse"><i class="icon-right-open-mini"></i>Ver Completo</a> </section>
               </div>
             </div>
           </article>
@@ -53,12 +53,12 @@
             <div class="media-list newsList">
               <div class="media">
                 <section class="newsDate">
-                  <h4>25</h4>
-                  <span>Nov.</span> </section>
+                  <h4>01</h4>
+                  <span>Jun.</span> </section>
                   <section class="media-body">
-                    <h3>I updated my facebook status</h3>
-                    <p>Nullam sed tortor odio. Suspendisse tincidunt dictum nisi, nec convallis odio. </p>
-                    <a href="blog-post.html" class="btn btn-small btn-inverse"><i class="icon-right-open-mini"></i>read more</a> </section>
+                    <h3>Soluciones</h3>
+                    <p>Desarrolla la composición de una solución en las diferentes cantidades.</p>
+                    <a href="http://ako.co/?r=site/page&view=about" class="btn btn-small btn-inverse"><i class="icon-right-open-mini"></i>Ver Completo</a> </section>
                   </div>
                 </div>
               </article>
@@ -71,12 +71,12 @@
                 <div class="media-list newsList">
                   <div class="media">
                     <section class="newsDate">
-                      <h4>02</h4>
-                      <span>Dec.</span> </section>
+                      <h4>31</h4>
+                      <span>May.</span> </section>
                       <section class="media-body">
-                        <h3>I just got the new iPhone</h3>
-                        <p>Nullam sed tortor odio. Suspendisse tincidunt dictum nisi, nec convallis odio. </p>
-                        <a href="blog-post.html" class="btn btn-small btn-inverse"><i class="icon-right-open-mini"></i>read more</a> </section>
+                        <h3>Vectores</h3>
+                        <p>Hallar la proyección de un vector sobre otro vector, y encontar el vector unitario. </p>
+                        <a href="blog-post.html" class="btn btn-small btn-inverse"><i class="icon-right-open-mini"></i>Ver Completo</a> </section>
                       </div>
                     </div>
                   </article>
@@ -161,7 +161,7 @@
                   <div class="container clearfix">
                     <div class="row">
                       <div class="span12">
-                        <h1>Nuevos Retos</h1>
+                        <h1>Areas de Apendizaje</h1>
                       </div>
                       <!--nav id="filter" class="span12 text-center">
                         <ul>
@@ -178,39 +178,39 @@
                               <section class="imgWrapper"><img alt="" src="images/portfolio/vign6.jpg"></section>
                               <div class="media-hover">
                                 <div class="mask"></div>
-                                <div class="iconLinks"> 
+                                <!--div class="iconLinks"> 
                                   <a href="portfolio-project-fullwidth-video.html" title="link" target="_blank" class="sizer iconWrapper"> 
                                     <i class="icon-videocam"></i>                                        </a> 
                                     <a href="images/portfolio/zoom6.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
-                                      <i class="icon-search"></i>                                        </a>                                    </div>
+                                      <i class="icon-search"></i>                                        </a>                </div-->
                                     </div>
                                     <section class="boxContent">
-                                      <h3>Lorem ipsum dolor sit amet</h3>
+                                      <h3>Programación</h3>
                                       <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
+                                        Ideal para los estudiantes que estan tomando los cursos de prograación básica o avanzada para practicar. 
                                         <br>
-                                        <a href="#" class="moreLink">&rarr; read more</a>                                    </p>
+                                        <!--a href="#" class="moreLink">&rarr; read more</a-->                                    </p>
                                       </section>
                                     </article>
                                     <article class="boxLink boxNew span4 isotopeItem cats">
                                       <section class="imgWrapper"> <img alt="" src="images/portfolio/vign1.jpg"> </section>
                                       <div class="media-hover">
                                         <div class="mask"></div>
-                                        <div class="iconLinks"> 
+                                        <!--div class="iconLinks"> 
                                           <a href="portfolio-project-fullwidth-image.html" title="link" target="_blank" class="sizer iconWrapper"> 
                                             <i class="icon-picture"></i> 
                                           </a> 
                                           <a href="images/portfolio/zoom1.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
                                             <i class="icon-search"></i> 
                                           </a> 
-                                        </div>
+                                        </div-->
                                       </div>
                                       <section class="boxContent">
-                                        <h3>Lorem ipsum dolor sit amet</h3>
+                                        <h3>Química</h3>
                                         <p> 
-                                          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
+                                          Ejemplos y ejercicios de química básica que pueden servir como prepración para los parciales o examenes finales. 
                                           <br>
-                                          <a href="#" class="moreLink">&rarr; read more</a> 
+                                          <!--a href="#" class="moreLink">&rarr; read more</a--> 
                                         </p>
                                       </section>
                                       <div class="newBadge">Nuevo!</div>
@@ -220,20 +220,20 @@
                                       <section class="imgWrapper"> <img alt="" src="images/portfolio/vign7.jpg"> </section>
                                       <div class="media-hover">
                                         <div class="mask"></div>
-                                        <div class="iconLinks"> 
+                                        <!--div class="iconLinks"> 
                                           <a href="portfolio-project-fullwidth-video.html" title="link" target="_blank" class="sizer iconWrapper"> 
                                             <i class="icon-videocam"></i> 
                                           </a> 
                                           <a href="images/portfolio/zoom7.jpg" class="prettyPhoto iconWrapper" title="Zoom" > 
                                             <i class="icon-search"></i> 
                                           </a> 
-                                        </div>
+                                        </div-->
                                       </div>
                                       <section class="boxContent">
-                                        <h3>Lorem ipsum dolor sit amet</h3>
-                                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus sollicitudin placerat. 
+                                        <h3>Matemáticas</h3>
+                                        <p> Ejemplos de repaso de matemáticas, acá puedes encontrar cosas desde geometría hasta cálculo. 
                                           <br>
-                                          <a href="#" class="moreLink">&rarr; read more</a> </p>
+                                          <!--a href="#" class="moreLink">&rarr; read more</a> </p-->
                                         </section>
                                         <div class="newBadge">Nuevo!</div>
                                       </article>

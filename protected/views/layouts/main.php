@@ -27,14 +27,14 @@
     <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/animation-framework/animate.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/pretty-photo/css/prettyPhoto.css" />
     <link type="text/css" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/isotope/css/style.css">
-    <link rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/supersized/css/supersized.css" type="text/css" media="screen" />
-    <link rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/supersized/theme/supersized.shutter.css" type="text/css" media="screen" />
+    <!--link rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/supersized/css/supersized.css" type="text/css" media="screen" /-->
+    <!--link rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/supersized/theme/supersized.shutter.css" type="text/css" media="screen" /-->
     <!-- icon fonts -->
     <link type="text/css" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/font-icons/custom-icons/css/custom-icons.css">
     <link type="text/css" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/font-icons/custom-icons/css/custom-icons-ie7.css">
     <!-- Custom css -->
     <link type="text/css" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/css/layout.css">
-    <link type="text/css" id="colors" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/css/green.css">
+    <link type="text/css" id="colors" rel="stylesheet" href="<?php echo Yii::app()->request->baseUrl; ?>/css/blue.css">
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/js/modernizr-2.6.1.min.js"></script>
     <!-- Favicons
@@ -55,7 +55,7 @@
         <header id="mainHeader" class="clearfix">
             <div class="container">
                 <div class="row">
-                    <div class="span12"> <a href="index.html" class="brand"><img src="images/main-logo.png" alt="ALTEA website template"/></a>
+                    <div class="span12"> <a href="" class="brand"><img src="images/main-logo.png" alt="ALTEA website template"/></a>
                         <nav id="resMainMenu" class="scrollMenu">
                             <ul class="nav clearfix">
                                 <li class="active"><a href="#home">Inicio</a> </li>
@@ -123,8 +123,8 @@
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/bootstrap/js/bootstrap.js"></script>
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/bootstrap/js/bootstrap-carousel-ie.js"></script>
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/easing/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/supersized/js/supersized.3.2.7.min.js"></script>
-    <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/supersized/theme/supersized.shutter.min.js"></script>
+    <!--script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/supersized/js/supersized.3.2.7.min.js"></script-->
+    <!--script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/supersized/theme/supersized.shutter.min.js"></script-->
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/responsive-nav/responsive-nav.min.js"></script>
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/isotope/jquery.isotope.min.js"></script>
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js-plugin/neko-contact-ajax-plugin/js/jquery.form.js"></script>
